@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DrChrispoper/starwars-challenge/static/css/main.1b3a1791.chunk.css",
+    "main.js": "/DrChrispoper/starwars-challenge/static/js/main.1937aee7.chunk.js",
+    "main.js.map": "/DrChrispoper/starwars-challenge/static/js/main.1937aee7.chunk.js.map",
+    "runtime-main.js": "/DrChrispoper/starwars-challenge/static/js/runtime-main.f5146186.js",
+    "runtime-main.js.map": "/DrChrispoper/starwars-challenge/static/js/runtime-main.f5146186.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/DrChrispoper/starwars-challenge/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/DrChrispoper/starwars-challenge/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/DrChrispoper/starwars-challenge/index.html",
+    "precache-manifest.92c01a17718100ca9dfe009952ac8ffc.js": "/DrChrispoper/starwars-challenge/precache-manifest.92c01a17718100ca9dfe009952ac8ffc.js",
+    "service-worker.js": "/DrChrispoper/starwars-challenge/service-worker.js",
+    "static/css/main.1b3a1791.chunk.css.map": "/DrChrispoper/starwars-challenge/static/css/main.1b3a1791.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/DrChrispoper/starwars-challenge/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5146186.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.1b3a1791.chunk.css",
+    "static/js/main.1937aee7.chunk.js"
+  ]
+}
